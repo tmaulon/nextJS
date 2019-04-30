@@ -1,3 +1,13 @@
 node_modules
 .next
 .next/**
+.vscode
+.vscode/**
+4-clean-urls
+5-clean-urls-ssr
+6-fetching-data
+7-styling-components
+8-deploying
+E1-static-export
+E2-lazy-loading-modules
+E3-lazy-loading-components
