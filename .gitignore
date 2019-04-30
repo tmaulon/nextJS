@@ -3,7 +3,6 @@ node_modules
 .next/**
 .vscode
 .vscode/**
-6-fetching-data
 7-styling-components
 8-deploying
 E1-static-export
