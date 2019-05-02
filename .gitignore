@@ -3,7 +3,6 @@ node_modules
 .next/**
 .vscode
 .vscode/**
-8-deploying
 E1-static-export
 E2-lazy-loading-modules
 E3-lazy-loading-components
