@@ -5,5 +5,4 @@ node_modules
 .vscode/**
 out
 out/**
-E2-lazy-loading-modules
 E3-lazy-loading-components
